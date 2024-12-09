@@ -429,23 +429,31 @@ header{
 .rules-img img{
     width: 175px;
 }
+.rules-hero-btn3{
+    display: inline-block;
+    padding: 2% 6%;
+    font-size: 15px;
+}
 .rules-hero-btn2{
     color: rgb(0, 255, 234);
-    text-align: left;
+    text-align: center;
+    text-decoration: none;
     text-shadow: 0 0 5px rgb(0, 255, 234);
-    float: left;
-    display: flex;
-    padding: 2% 6%;
+    display: inline-flex;
+    position: relative;
+    cursor: pointer;
+    padding: 8px 18px;
 }
 .rules-hero-btn{
-    margin-left: 20px;
     display: inline-block;
     text-decoration: none;
     color: rgb(255, 255, 255);
     border: 1px solid teal;
-    padding: 2px 18px;
+    padding: 8px 18px;
     font-size: 15px;
     background: teal;
+    position: relative;
+    cursor: pointer;
 }
 .rules-hero-btn img{
     width: 25px;
