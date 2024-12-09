@@ -431,8 +431,6 @@ header{
 }
 .rules-hero-btn3{
     display: inline-block;
-    padding: 2% 6%;
-    font-size: 15px;
 }
 .rules-hero-btn2{
     color: rgb(0, 255, 234);
@@ -442,7 +440,6 @@ header{
     display: inline-flex;
     position: relative;
     cursor: pointer;
-    padding: 8px 18px;
 }
 .rules-hero-btn{
     display: inline-block;
