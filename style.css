@@ -324,6 +324,37 @@ header{
 .about-img img{
     width: 175px;
 }
+.about-hero-btn3{
+    display: inline-block;
+}
+.about-hero-btn2{
+    color: rgb(0, 255, 234);
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 0 5px rgb(0, 255, 234);
+    display: inline-flex;
+    position: relative;
+    cursor: pointer;
+}
+.about-hero-btn{
+    display: inline-block;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border: 1px solid teal;
+    padding: 8px 18px;
+    margin: 2px 3px;
+    font-size: 15px;
+    background: teal;
+    position: relative;
+    cursor: pointer;
+}
+.about-hero-btn img{
+    width: 25px;
+}
+.about-hero-btn:hover{
+    border: 1px solid rgb(0, 110, 255);
+    background: rgb(0, 110, 255);
+}
 
 /*----------- rules gape ----------*/
 .rules-big-container{
